@@ -78,11 +78,13 @@ git clone https://github.com/fguby/live2D.git
 ```
 
 <h6>如果要使用音频播放，页面还需要放置一个audio</h6>
+
 ```html
 <audio id="my_audio"></audio>
 ```
 
 <h6>4️⃣调用初始化的函数,例如：</h6>
+
 ```html
 <body onload="InitLive2D()">
 ```
